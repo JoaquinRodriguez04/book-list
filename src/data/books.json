@@ -1,0 +1,93 @@
+[
+  {
+    "img": "../src/assets/book1.jpg",
+    "gender": "fiction",
+    "pages": 300,
+    "alt": "img-1984",
+    "id": 1
+  },
+  {
+    "img": "../src/assets/book2.jpg",
+    "gender": "zombie",
+    "pages": 400,
+    "alt": "img-apocalypse-z",
+    "id": 2
+  },
+  {
+    "img": "../src/assets/book3.jpg",
+    "gender": "terror",
+    "pages": 400,
+    "alt": "img-dracula",
+    "id": 3
+  },
+  {
+    "img": "../src/assets/book4.jpg",
+    "gender": "fiction",
+    "pages": 400,
+    "alt": "img-dune",
+    "id": 4
+  },
+  {
+    "img": "../src/assets/book5.jpg",
+    "gender": "terror",
+    "pages": 650,
+    "alt": "img-stehen-king",
+    "id": 5
+  },
+  {
+    "img": "../src/assets/book6.jpg",
+    "gender": "fancy",
+    "pages": 1200,
+    "alt": "img-the-lord-of-the-kings",
+    "id": 6
+  },
+  {
+    "img": "../src/assets/book7.jpg",
+    "gender": "fiction",
+    "pages": 200,
+    "alt": "img-fahrenheit",
+    "id": 7
+  },
+  {
+    "img": "../src/assets/book8.jpg",
+    "gender": "terror",
+    "pages": 250,
+    "alt": "img-frankenstein",
+    "id": 8
+  },
+  {
+    "img": "../src/assets/book9.jpg",
+    "gender": "fancy",
+    "pages": 200,
+    "alt": "img-harry-potter",
+    "id": 9
+  },
+  {
+    "img": "../src/assets/book10.jpg",
+    "gender": "fancy",
+    "pages": 650,
+    "alt": "img-game-of-thrones",
+    "id": 10
+  },
+  {
+    "img": "../src/assets/book11.jpg",
+    "gender": "fiction",
+    "pages": 200,
+    "alt": "guia-del-autoestopia-galáctico",
+    "id": 11
+  },
+  {
+    "img": "../src/assets/book12.jpg",
+    "gender": "terror",
+    "pages": 40,
+    "alt": "img-la-llamada-de-cthulhu",
+    "id": 12
+  },
+  {
+    "img": "../src/assets/book13.jpg",
+    "gender": "fiction",
+    "pages": 250,
+    "alt": "img-William-Gibson",
+    "id": 13
+  }
+]
